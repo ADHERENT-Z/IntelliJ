@@ -24,13 +24,13 @@ public class test {
 
 
     public static void main(String[] args) {
-
-        short s1 = Short.MAX_VALUE;
-        printBinary(s1);
-        System.out.println(s1);
-        short s2 = (short) (s1 + 1);
-        printBinary(s2);
-        System.out.println(s2);
+//
+//        short s1 = Short.MAX_VALUE;
+//        printBinary(s1);
+//        System.out.println(s1);
+//        short s2 = (short) (s1 + 1);
+//        printBinary(s2);
+//        System.out.println(s2);
 
 
 //        String s1 = new String("abc");
@@ -58,10 +58,9 @@ public class test {
 
 
 
-        byte[] oper1 = {0x12, 0x34, 0x56, (byte) 0xAB};
-        String tmp = bytesToHexString(oper1);
-        byte[] resultBlock = tmp.getBytes();
-
+//        byte[] oper1 = {0x12, 0x34, 0x56, (byte) 0xAB};
+//        String tmp = bytesToHexString(oper1);
+//        byte[] resultBlock = tmp.getBytes();
 
 
     }

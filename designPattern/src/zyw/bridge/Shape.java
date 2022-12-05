@@ -2,10 +2,10 @@ package zyw.bridge;
 
 public abstract class Shape {
 
-    protected DrawAPI drawAPI;
+    protected IDraw draw;
 
-    protected Shape(DrawAPI drawAPI){
-        this.drawAPI = drawAPI;
+    protected Shape(IDraw draw){
+        this.draw = draw;
     }
 
     public abstract void draw();
