@@ -9,14 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/corejava/corejava.iml" filepath="$PROJECT_DIR$/corejava/corejava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cryptor/cryptor.iml" filepath="$PROJECT_DIR$/cryptor/cryptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/designPattern/designPattern.iml" filepath="$PROJECT_DIR$/designPattern/designPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview/interview.iml" filepath="$PROJECT_DIR$/interview/interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/jarDemo/jarDemo.iml" filepath="$PROJECT_DIR$/jarDemo/jarDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaFile/javaFile.iml" filepath="$PROJECT_DIR$/javaFile/javaFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/log_demo/log_demo.iml" filepath="$PROJECT_DIR$/log_demo/log_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rsa/rsa.iml" filepath="$PROJECT_DIR$/rsa/rsa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seeLib/seeLib.iml" filepath="$PROJECT_DIR$/seeLib/seeLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/swingDemo/swingDemo.iml" filepath="$PROJECT_DIR$/swingDemo/swingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/zcy/zcy.iml" filepath="$PROJECT_DIR$/zcy/zcy.iml" />
     </modules>
