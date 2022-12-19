@@ -1,6 +1,6 @@
 package zyw.visitor;
 
-public class ComputerPartDisplayVisitor  implements ComputerPartVisitor {
+public class ComputerPartDisplayVisitor implements ComputerPartVisitor {
 
     @Override
     public void visit(Computer computer) {
