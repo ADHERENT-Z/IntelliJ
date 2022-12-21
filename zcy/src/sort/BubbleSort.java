@@ -19,7 +19,7 @@ public class BubbleSort {
 
     }
 
-    public void bubbleSort2(int[] arr) {
+    public static void bubbleSort2(int[] arr) {
 
         int i = arr.length - 1; //初始时,最后位置保持不变　　
         while(i > 0){
@@ -45,7 +45,7 @@ public class BubbleSort {
             System.out.println(arr[i]);
         }
 
-        bubbleSort(arr);
+        bubbleSort2(arr);
 
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
