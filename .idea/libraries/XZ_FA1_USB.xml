@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="XZ_FA1_USB">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/XZ_FA1_USB.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

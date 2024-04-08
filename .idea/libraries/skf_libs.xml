@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="skf-libs">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/skf-libs.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

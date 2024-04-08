@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sdf">
+    <output-path>$PROJECT_DIR$/out/artifacts/sdf</output-path>
+    <root id="archive" name="sdf.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/sdf/src/main/java/com" />
+    </root>
+  </artifact>
+</component>

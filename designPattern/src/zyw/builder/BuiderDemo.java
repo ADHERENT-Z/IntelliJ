@@ -15,6 +15,6 @@ public class BuiderDemo {
         System.out.println("\n\nNon-Veg Meal");
         nonVegMeal.showItems();
         System.out.println("Total Cost: " + nonVegMeal.getCost());
-
+    
     }
 }

@@ -1,5 +1,15 @@
 package testDemo;
 
+import sun.misc.Unsafe;
+
+import java.util.Date;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ThreadPoolExecutor;
+
 public class test {
 
     public static void printBinary(short num){
@@ -10,7 +20,7 @@ public class test {
         System.out.println();
     }
 
-    public static final String bytesToHexString(byte[] bArray) {
+    public static final String bytes2HexString(byte[] bArray) {
         StringBuffer sb = new StringBuffer(bArray.length);
         String sTemp;
         for (int i = 0; i < bArray.length; i++) {
@@ -22,50 +32,22 @@ public class test {
         return sb.toString();
     }
 
-
     public static void main(String[] args) {
+
+//        ThreadContainer<Ticket> ticketThreadContainer =
+//                new ThreadContainer<Ticket>(2, 5, new LinkedList<>());
 //
-//        short s1 = Short.MAX_VALUE;
-//        printBinary(s1);
-//        System.out.println(s1);
-//        short s2 = (short) (s1 + 1);
-//        printBinary(s2);
-//        System.out.println(s2);
-
-
-//        String s1 = new String("abc");
-//        String s2 = "abc";
-//        String s3 = "ab" + "c";
-//        String s4 = "a"+ "b" + "c";
-//        String s5 = s1;
+//        Date time = new Date();
 //
-//        System.out.println(s2 == "abc"); // true
-
-
-//        System.out.println(s1.equals(s2));
-//        System.out.println(s1.equals(s3));
-//        System.out.println(s1.equals(s4));
-//        System.out.println(s1.equals(s5));
+//        Producer producer = new Producer(ticketThreadContainer, time);
+//        Customer customer = new Customer(ticketThreadContainer);
 //
-//        System.out.println("=============");
-//
-//        System.out.println(s1 == s2);
-//        System.out.println(s1 == s3);
-//        System.out.println(s1 == s4);
-//        System.out.println(s1 == s5);
+//        new Thread(producer).start();
+//        new Thread(customer).start();
 
-
-
-
-
-//        byte[] oper1 = {0x12, 0x34, 0x56, (byte) 0xAB};
-//        String tmp = bytesToHexString(oper1);
-//        byte[] resultBlock = tmp.getBytes();
 
 
     }
-
-
 }
 
 

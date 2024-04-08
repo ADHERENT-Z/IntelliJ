@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GM/GM.iml" filepath="$PROJECT_DIR$/GM/GM.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntelliJ.iml" filepath="$PROJECT_DIR$/IntelliJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaUtils/JavaUtils.iml" filepath="$PROJECT_DIR$/JavaUtils/JavaUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/JnaDemo/JnaDemo.iml" filepath="$PROJECT_DIR$/JnaDemo/JnaDemo.iml" />
@@ -12,10 +13,12 @@
       <module fileurl="file://$PROJECT_DIR$/corejava/corejava.iml" filepath="$PROJECT_DIR$/corejava/corejava.iml" />
       <module fileurl="file://$PROJECT_DIR$/designPattern/designPattern.iml" filepath="$PROJECT_DIR$/designPattern/designPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview/interview.iml" filepath="$PROJECT_DIR$/interview/interview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jarDemo/jarDemo.iml" filepath="$PROJECT_DIR$/jarDemo/jarDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaFile/javaFile.iml" filepath="$PROJECT_DIR$/javaFile/javaFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyboardLib/keyboardLib.iml" filepath="$PROJECT_DIR$/keyboardLib/keyboardLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/log_demo/log_demo.iml" filepath="$PROJECT_DIR$/log_demo/log_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rsa/rsa.iml" filepath="$PROJECT_DIR$/rsa/rsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdf/sdf.iml" filepath="$PROJECT_DIR$/sdf/sdf.iml" />
       <module fileurl="file://$PROJECT_DIR$/swingDemo/swingDemo.iml" filepath="$PROJECT_DIR$/swingDemo/swingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/zcy/zcy.iml" filepath="$PROJECT_DIR$/zcy/zcy.iml" />
     </modules>

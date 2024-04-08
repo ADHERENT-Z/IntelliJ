@@ -1,7 +1,6 @@
 package thread;
 
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.FutureTask;
+import java.util.concurrent.*;
 
 public class ThreadDemo {
 
@@ -39,8 +38,21 @@ public class ThreadDemo {
         }
 
 
-
-
+//
+//        // 创建一个线程池
+//        ExecutorService executorService =
+//                new ThreadPoolExecutor(4, 8, 10, TimeUnit.MINUTES, new ArrayBlockingQueue<>(1024));
+//        // 提交一个Callable任务
+//        Future future = executorService.submit(new CallableThread());
+//        // 阻塞获取任务返回结果
+//        try {
+//            String obj = (String) future.get();
+//            System.out.println(obj);
+//        } catch (InterruptedException e) {
+//            e.printStackTrace();
+//        } catch (ExecutionException e) {
+//            e.printStackTrace();
+//        }
 
     }
 }

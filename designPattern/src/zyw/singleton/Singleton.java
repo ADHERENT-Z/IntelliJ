@@ -124,6 +124,9 @@ public class Singleton {
  * 这种方式能达到双检锁方式一样的功效，但实现更简单。
  * 这种方式只适用于静态域的情况，双检锁方式可在实例域需要延迟初始化时使用。
  *
+ * 这种方式是 Singleton类被装载了，instance不一定被初始化。
+ * 因为 SingletonHolder类没有被主动使用，只有通过显式调用 getInstance方法时，
+ * 才会显式装载 SingletonHolder类，从而实例化 instance
  */
 //public class Singleton {
 //

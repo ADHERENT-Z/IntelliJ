@@ -12,4 +12,6 @@ public class VlcPlayer implements AdvancedMediaPlayer{
     public void playMp4(String fileName) {
         //什么也不做
     }
+
+
 }
